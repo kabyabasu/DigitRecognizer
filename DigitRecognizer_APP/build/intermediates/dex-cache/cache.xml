@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/kabya/.android/build-cache/4614ee2fc04945124981868d80b2beaf55d2ac57/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a92bb5e52e42e8784cfe9be451480377806188ab">
+        <dex dex="/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e7328491fa4105fb8127d42c46618eb0ca7955c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="86e9e942af99aa41eceeb6af502eba7024e9c487">
+        <dex dex="/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_68cda9b3c20ef8d1ae19677509bdc4799cf4dfa3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_636201d2643c2609372a023aa689b3ccd47985a5/classes.dex" />
+    </item>
+
+</items>
