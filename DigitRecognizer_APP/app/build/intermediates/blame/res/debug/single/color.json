@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/kabya/.android/build-cache/43aff0b33fdc66a43f7edc8e94974668a020931f/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/kabya/.android/build-cache/43aff0b33fdc66a43f7edc8e94974668a020931f/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/kabya/.android/build-cache/43aff0b33fdc66a43f7edc8e94974668a020931f/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/kabya/.android/build-cache/43aff0b33fdc66a43f7edc8e94974668a020931f/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/kabya/.android/build-cache/43aff0b33fdc66a43f7edc8e94974668a020931f/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/kabya/.android/build-cache/43aff0b33fdc66a43f7edc8e94974668a020931f/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/kabya/.android/build-cache/43aff0b33fdc66a43f7edc8e94974668a020931f/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/kabya/.android/build-cache/43aff0b33fdc66a43f7edc8e94974668a020931f/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/kabya/.android/build-cache/43aff0b33fdc66a43f7edc8e94974668a020931f/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/kabya/.android/build-cache/43aff0b33fdc66a43f7edc8e94974668a020931f/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/kabya/.android/build-cache/43aff0b33fdc66a43f7edc8e94974668a020931f/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/kabya/.android/build-cache/b9c2c49b0f7d46090867c55f4635166932d5bba7/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/home/kabya/.android/build-cache/b9c2c49b0f7d46090867c55f4635166932d5bba7/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/kabya/.android/build-cache/b9c2c49b0f7d46090867c55f4635166932d5bba7/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/home/kabya/.android/build-cache/43aff0b33fdc66a43f7edc8e94974668a020931f/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/kabya/.android/build-cache/43aff0b33fdc66a43f7edc8e94974668a020931f/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/home/kabya/.android/build-cache/43aff0b33fdc66a43f7edc8e94974668a020931f/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/home/kabya/.android/build-cache/43aff0b33fdc66a43f7edc8e94974668a020931f/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/kabya/.android/build-cache/43aff0b33fdc66a43f7edc8e94974668a020931f/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/kabya/.android/build-cache/43aff0b33fdc66a43f7edc8e94974668a020931f/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/home/kabya/.android/build-cache/43aff0b33fdc66a43f7edc8e94974668a020931f/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/kabya/.android/build-cache/43aff0b33fdc66a43f7edc8e94974668a020931f/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/kabya/.android/build-cache/43aff0b33fdc66a43f7edc8e94974668a020931f/output/res/color/abc_tint_btn_checkable.xml"
+    }
+]

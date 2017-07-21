@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]
