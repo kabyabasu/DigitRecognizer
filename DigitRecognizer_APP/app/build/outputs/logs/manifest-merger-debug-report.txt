@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [DigitRecognizer:tensorflow:unspecified] /home/kabya/.android/build-cache/4614ee2fc04945124981868d80b2beaf55d2ac57/output/AndroidManifest.xml:5:5-6:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/kabya/.android/build-cache/43aff0b33fdc66a43f7edc8e94974668a020931f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/kabya/.android/build-cache/4cdc3c04550c38b6af46fa1c2c3625b339f7828a/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/kabya/.android/build-cache/db2324cc70b136c42bd9b244efa77e79a49c1955/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/kabya/.android/build-cache/36bbcd985ae9de81debca26dcb3c9e8fa0777edd/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.1] /home/kabya/.android/build-cache/693f9cb25c9a409f9cb341f1ced951d0dab3b22c/output/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.1] /home/kabya/.android/build-cache/08adb3a2889ce11d7354291a1c579d9d6808e68b/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.1] /home/kabya/.android/build-cache/2a3bf024a09d4bde7652f8d2f498f05543ac654a/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.1] /home/kabya/.android/build-cache/049f1c265b69a346a31a9e04a47b6ce59473c16e/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.1] /home/kabya/.android/build-cache/b9c2c49b0f7d46090867c55f4635166932d5bba7/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] /home/kabya/.android/build-cache/198a06c34b5ea8e8c20312312b4dbe8633d0158b/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] /home/kabya/.android/build-cache/10664255b3b5f151c4c83bde45915445a74a84e1/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/kabya/.android/build-cache/8f0ef83285089b2d19ba13628d62301def458e8e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/kabya/.android/build-cache/fa165cfa485260fee4ae458ec892fa826b6d95c9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/kabya/.android/build-cache/d70887820dd345aba6bca7d4696b92585797eede/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/kabya/.android/build-cache/dd0d926014f03df9e110a0336ce29c3ad40b1bcf/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/kabya/.android/build-cache/dc33a59f31bdfbaa2d75a3a42cdbe22e048520c2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/kabya/.android/build-cache/675c392b117b38489052c92e8263d6e84d2561c6/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml:11:9-40
+activity#comc.example.kabya.digitrecognizer.MainActivity
+ADDED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/kabya/.android/build-cache/43aff0b33fdc66a43f7edc8e94974668a020931f/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/kabya/.android/build-cache/4cdc3c04550c38b6af46fa1c2c3625b339f7828a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/kabya/.android/build-cache/db2324cc70b136c42bd9b244efa77e79a49c1955/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/kabya/.android/build-cache/36bbcd985ae9de81debca26dcb3c9e8fa0777edd/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads:11.0.1] /home/kabya/.android/build-cache/200eac1c7063fe6fb0490bbe53b7d8f7c61f447d/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.1] /home/kabya/.android/build-cache/693f9cb25c9a409f9cb341f1ced951d0dab3b22c/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.1] /home/kabya/.android/build-cache/08adb3a2889ce11d7354291a1c579d9d6808e68b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.1] /home/kabya/.android/build-cache/2a3bf024a09d4bde7652f8d2f498f05543ac654a/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.1] /home/kabya/.android/build-cache/049f1c265b69a346a31a9e04a47b6ce59473c16e/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.1] /home/kabya/.android/build-cache/b9c2c49b0f7d46090867c55f4635166932d5bba7/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] /home/kabya/.android/build-cache/198a06c34b5ea8e8c20312312b4dbe8633d0158b/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] /home/kabya/.android/build-cache/10664255b3b5f151c4c83bde45915445a74a84e1/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/kabya/.android/build-cache/8f0ef83285089b2d19ba13628d62301def458e8e/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/kabya/.android/build-cache/fa165cfa485260fee4ae458ec892fa826b6d95c9/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/kabya/.android/build-cache/d70887820dd345aba6bca7d4696b92585797eede/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/kabya/.android/build-cache/dd0d926014f03df9e110a0336ce29c3ad40b1bcf/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/kabya/.android/build-cache/dc33a59f31bdfbaa2d75a3a42cdbe22e048520c2/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/kabya/.android/build-cache/675c392b117b38489052c92e8263d6e84d2561c6/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/kabya/.android/build-cache/43aff0b33fdc66a43f7edc8e94974668a020931f/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml:2:1-21:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml:2:1-21:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/kabya/AndroidStudioProjects/DigitRecognizer/app/src/main/AndroidManifest.xml:2:1-21:12 reason: tensorflow.contrib.android requested WRITE_EXTERNAL_STORAGE
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/kabya/.android/build-cache/43aff0b33fdc66a43f7edc8e94974668a020931f/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/kabya/.android/build-cache/4cdc3c04550c38b6af46fa1c2c3625b339f7828a/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/kabya/.android/build-cache/db2324cc70b136c42bd9b244efa77e79a49c1955/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/kabya/.android/build-cache/8f0ef83285089b2d19ba13628d62301def458e8e/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/kabya/.android/build-cache/fa165cfa485260fee4ae458ec892fa826b6d95c9/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/kabya/.android/build-cache/d70887820dd345aba6bca7d4696b92585797eede/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/kabya/.android/build-cache/dd0d926014f03df9e110a0336ce29c3ad40b1bcf/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/kabya/.android/build-cache/dc33a59f31bdfbaa2d75a3a42cdbe22e048520c2/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/kabya/.android/build-cache/675c392b117b38489052c92e8263d6e84d2561c6/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/kabya/.android/build-cache/43aff0b33fdc66a43f7edc8e94974668a020931f/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/kabya/.android/build-cache/43aff0b33fdc66a43f7edc8e94974668a020931f/output/AndroidManifest.xml:26:9-47
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.1] /home/kabya/.android/build-cache/693f9cb25c9a409f9cb341f1ced951d0dab3b22c/output/AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.1] /home/kabya/.android/build-cache/693f9cb25c9a409f9cb341f1ced951d0dab3b22c/output/AndroidManifest.xml:19:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.1] /home/kabya/.android/build-cache/693f9cb25c9a409f9cb341f1ced951d0dab3b22c/output/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.1] /home/kabya/.android/build-cache/693f9cb25c9a409f9cb341f1ced951d0dab3b22c/output/AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.1] /home/kabya/.android/build-cache/693f9cb25c9a409f9cb341f1ced951d0dab3b22c/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.1] /home/kabya/.android/build-cache/693f9cb25c9a409f9cb341f1ced951d0dab3b22c/output/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.1] /home/kabya/.android/build-cache/693f9cb25c9a409f9cb341f1ced951d0dab3b22c/output/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.1] /home/kabya/.android/build-cache/693f9cb25c9a409f9cb341f1ced951d0dab3b22c/output/AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.1] /home/kabya/.android/build-cache/b9c2c49b0f7d46090867c55f4635166932d5bba7/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] /home/kabya/.android/build-cache/b9c2c49b0f7d46090867c55f4635166932d5bba7/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] /home/kabya/.android/build-cache/b9c2c49b0f7d46090867c55f4635166932d5bba7/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] /home/kabya/.android/build-cache/b9c2c49b0f7d46090867c55f4635166932d5bba7/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.1] /home/kabya/.android/build-cache/10664255b3b5f151c4c83bde45915445a74a84e1/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.1] /home/kabya/.android/build-cache/10664255b3b5f151c4c83bde45915445a74a84e1/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.1] /home/kabya/.android/build-cache/10664255b3b5f151c4c83bde45915445a74a84e1/output/AndroidManifest.xml:20:20-65
