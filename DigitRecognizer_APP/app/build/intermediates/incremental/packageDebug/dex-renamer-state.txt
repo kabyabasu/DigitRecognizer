@@ -1,0 +1,7 @@
+#Wed Jul 05 00:26:03 IST 2017
+base.0=/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_636201d2643c2609372a023aa689b3ccd47985a5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_68cda9b3c20ef8d1ae19677509bdc4799cf4dfa3/classes.dex
+base.1=/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_68cda9b3c20ef8d1ae19677509bdc4799cf4dfa3
+file.0=/home/kabya/AndroidStudioProjects/DigitRecognizer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_636201d2643c2609372a023aa689b3ccd47985a5/classes.dex
