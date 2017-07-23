@@ -23,4 +23,8 @@ I have included everything DigitRecognizer_APP
 
 https://github.com/kabyabasu/DigitRecognizer/tree/master/DigitRecognizer_APP 
 
+Library & Software 
+
+Python,Scipy,Numpy,Tensorflow,keras,Android Studio
+
 
